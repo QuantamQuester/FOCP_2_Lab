@@ -76,7 +76,7 @@ int main() {
     int num;
     cout << "Enter a number: ";
     cin >> num;
-    cout << "Sum of digits: " << sumOfDigits(num) << endl;
+    cout << "Sum of digits: " << sumOfdigits(num) << endl;
     return 0;
 }*/
 
