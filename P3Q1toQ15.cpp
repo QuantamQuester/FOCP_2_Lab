@@ -110,7 +110,7 @@ int main(){
 
 //Nth Fibonacci Number
 
-/*int Fib(int n){
+/*int fib(int n){
     if (n <= 1) return n;
     return fibonacci(n - 1) + fibonacci(n - 2);
 }
